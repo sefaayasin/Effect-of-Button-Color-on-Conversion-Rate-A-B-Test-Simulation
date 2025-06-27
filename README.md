@@ -33,9 +33,10 @@ Toplam 2000 kullanıcıdan elde edilen sonuçlara göre mavi butonun dönüşüm
 
 ## 📥 Rapor
 
-Bu projenin detaylı Türkçe PDF raporuna aşağıdaki bağlantıdan ulaşabilirsiniz:
-
-👉 [AB_Testi_Raporu_Sefa_Yasin_Namli.pdf](./AB_Testi_Raporu_Sefa_Yasin_Namli.pdf)
+Bu proje ile A/B testinin temel mantığı, veri simülasyonu, görselleştirme ve istatistiksel
+anlamlılık testi başarıyla uygulanmıştır. Elde edilen sonuçlara göre, mavi butonun
+dönüşüm oranı kırmızıya göre anlamlı şekilde daha yüksektir. Bu analiz, ürün geliştirme
+süreçlerinde veri temelli karar vermeye örnek teşkil etmektedir.
 
 ---
 
