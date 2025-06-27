@@ -1,4 +1,5 @@
 💡 Nedir Bu Proje?
+
 Bu bir A/B testi simülasyonu projesi.
 Bir ürün (örneğin bir web formu) üzerinde yapılabilecek değişikliklerin, kullanıcı davranışlarını nasıl etkilediğini ölçmek için kullanılır.
 
